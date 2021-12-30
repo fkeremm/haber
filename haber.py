@@ -16,7 +16,7 @@ for haber in haberler.entries:
  / __  / /_/ / /_/ /  __/ /
 /_/ /_/\__,_/_.___/\___/_/
 
-CODED BY SAEP
+CODED BY Furkan
 """)
     print("\n")
     print(i)
